@@ -6,3 +6,4 @@
 
 ### What's next?
   I will be studying for an upcoming exam but after will be coding an ATM without following an outline in Java and then Python.
+  After that I will come back to this project and modify it to make it my own!
